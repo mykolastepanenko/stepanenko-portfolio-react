@@ -1,0 +1,28 @@
+.section {
+  background-color: #fff;
+}
+
+.section__h1 {
+  font-size: 1.75em;
+  color: #49515a;
+}
+
+.section__icon {
+  color: #b0b7bf;
+  margin-right: 10px;
+}
+
+.section__p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.section__ol {
+  color: #778492;
+  font-weight: bold;
+}
+
+.section__ol p {
+  color: black;
+  font-weight: normal;
+}
