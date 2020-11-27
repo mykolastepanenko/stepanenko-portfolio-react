@@ -15,7 +15,7 @@ export default function Content() {
         <Row>
           <Col lg={8}>
             <InfoAbout
-              title="Информация о себе"
+              title="Обо мне"
               text="Приветствую в своем портфолио. Меня зовут Николай Степаненко. Я студент
         и ищу место для прохождения стажировки в качестве Front-End
         разработчика."
@@ -78,8 +78,15 @@ export default function Content() {
                   <li>Bootstrap</li>
                   <li>Иконки Font Awesome</li>
                 </ol>,
-                "Вы можете ознакомится с проектом на GitHub: ", 
-                <a></a>
+                "Вы можете ознакомится с проектом на GitHub: ",
+                <p>
+                  <a
+                    href="https://github.com/mykolastepanenko/stepanenko-portfolio-react"
+                    target="_blank"
+                    rel="noreferrer">
+                    https://github.com/mykolastepanenko/stepanenko-portfolio-react
+                  </a>
+                </p>,
               ]}
             />
           </Col>

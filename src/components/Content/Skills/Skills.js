@@ -10,6 +10,7 @@ export default function Skills() {
         level="Pro"
         progress="90%"
       />
+      <SkillsProgress mt="mt-3" title="Bootstrap" level="Pro" progress="90%" />
       <SkillsProgress
         mt="mt-3"
         title="English"
