@@ -26,3 +26,7 @@
   color: black;
   font-weight: normal;
 }
+
+.section__a {
+  word-wrap: break-word;
+}

@@ -13,13 +13,13 @@ export default function Location() {
       </p>
       <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "envelope"]} />
-        <a href="mailto:Nikolaua36@gmail.com" target="_blank">
+        <a href="mailto:Nikolaua36@gmail.com" target="_blank" rel="noreferrer">
           Nikolaua36@gmail.com
         </a>
       </p>
       <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
-        <a href="https://stepanenko-portfolio.herokuapp.com/" target="_blank">
+        <a href="https://stepanenko-portfolio.herokuapp.com/" target="_blank" rel="noreferrer">
           Портфолио
         </a>
       </p>

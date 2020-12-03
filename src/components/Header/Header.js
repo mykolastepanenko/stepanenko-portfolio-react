@@ -8,7 +8,7 @@ export default function Header(props) {
     <React.Fragment>
       <header className="header pt-5 pb-5">
         <Container>
-          <Row className="text-center">
+          <Row className="text-center text-lg-left">
             <Col
               lg={2}
               className="pb-3 pb-lg-0 pt-lg-0 d-flex flex-wrap justify-content-center justify-content-lg-start align-items-center">
@@ -17,8 +17,8 @@ export default function Header(props) {
             <Col
               lg={8}
               className="d-flex flex-wrap justify-content-center justify-content-lg-start align-items-center">
-              <h1 className="header__h1">Николай Степаненко</h1>
-              <h2 className="header__h2">Стажировщик Front-End Developer</h2>
+              <h1 className="header__h1 w-100">Николай Степаненко</h1>
+              <h2 className="header__h2 w-100">Junior Front-End Developer</h2>
               <Row className="pt-3 pb-lg-0 pt-lg-0 d-flex w-100 justify-content-center justify-content-lg-start">
                 <a
                   href="https://www.facebook.com/stepanenko.mykola"
@@ -39,6 +39,16 @@ export default function Header(props) {
                     className="header__icon"
                     size="2x"
                     icon={["fab", "telegram"]}
+                  />
+                </a>
+                <a
+                  href="https://github.com/mykolastepanenko"
+                  target="_blank"
+                  rel="noreferrer">
+                  <FontAwesomeIcon
+                    className="header__icon"
+                    size="2x"
+                    icon={["fab", "github"]}
                   />
                 </a>
               </Row>
