@@ -17,10 +17,22 @@ export default function Location() {
           Nikolaua36@gmail.com
         </a>
       </p>
-      <p>
+      {/* <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
-        <a href="https://stepanenko-portfolio.herokuapp.com/" target="_blank" rel="noreferrer">
+        <a
+          href="https://stepanenko-portfolio.herokuapp.com/"
+          target="_blank"
+          rel="noreferrer">
           Портфолио
+        </a>
+      </p> */}
+      <p>
+        <FontAwesomeIcon className="section__icon" icon={["fas", "file"]} />
+        <a
+          href="https://drive.google.com/file/d/1VGebFtt-u62EkE8b-grXKZ9xF3kBwzd5/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer">
+          Скачать резюме
         </a>
       </p>
     </div>
