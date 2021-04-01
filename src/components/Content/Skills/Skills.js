@@ -2,26 +2,27 @@ import React from "react";
 import SkillsProgress from "./SkillsProgress";
 
 let skills = [
-  { title: "HTML, CSS, JavaScript", level: "Pro", progress: "90%" },
-  { title: "Bootstrap", level: "Pro", progress: "90%" },
+  { title: "HTML, CSS", level: "Advanced", progress: "90%" },
+  { title: "Bootstrap", level: "Middle", progress: "75%" },
+  { title: "JavaScript", level: "Strong Junior", progress: "50%" },
   {
     title: "React",
-    level: "Advanced",
-    progress: "75%",
+    level: "Strong Junior",
+    progress: "50%",
   },
   {
     title: "React Router, React Bootstrap, React Transition Group",
-    level: "Advanced",
-    progress: "75%",
+    level: "Strong Junior",
+    progress: "50%",
   },
-  { title: "Git", level: "Advanced", progress: "75%" },
-  { title: "Webpack", level: "Advanced", progress: "75%" },
-  { title: "SQL", level: "Advanced", progress: "75%" },
-  { title: "English", level: "Intermediate", progress: "75%" },
-  { title: "Vue, jQuery", level: "Middle", progress: "50%" },
-  { title: "Photoshop", level: "Basic", progress: "50%" },
-  { title: "PHP", level: "Basic", progress: "50%" },
-  { title: "WordPress", level: "Basic", progress: "50%" },
+  { title: "English", level: "Intermediate", progress: "50%" },
+  { title: "Git", level: "Strong Junior", progress: "50%" },
+  { title: "Vue, jQuery", level: "Strong Junior", progress: "50%" },
+  { title: "Webpack", level: "Junior", progress: "30%" },
+  { title: "SQL", level: "Junior", progress: "30%" },
+  { title: "PHP", level: "Strong Junior", progress: "50%" },
+  { title: "WordPress", level: "Strong Junior", progress: "50%" },
+  { title: "Photoshop", level: "Basic", progress: "30%" },
 ];
 
 export default function Skills() {

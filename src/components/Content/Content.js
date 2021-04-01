@@ -16,9 +16,8 @@ export default function Content() {
           <Col lg={8}>
             <InfoAbout
               title="О себе"
-              text="Приветствую в своем портфолио. Меня зовут Николай Степаненко. Я студент 4 курса
-        и нахожусь в поиске работы на должность Junior Front-End разработчика. Опыт в веб индустрии - 5 лет. Изучаю английский язык. 
-        На данный момент имею уровень Intermediate."
+              text="Приветствую в своем портфолио. Меня зовут Николай Степаненко. Я нахожусь в поиске работы на должность Junior Front-End разработчика. Изучаю Front-End с 2015 года. Имею практический, но не коммерческий опыт разработки Front-End части. Имею практический опыт Back-End. Имею техническое образование по специальности разработки программного обеспечения.
+        Хочу попасть в вашу команду и получить опыт решения реальных задач. Всегда готов учиться новому. Также я изучаю английский язык. На данный момент имею уровень Intermediate."
             />
             <InfoAbout
               mt="mt-3"
@@ -83,7 +82,8 @@ export default function Content() {
                   className="section__a"
                   href="https://github.com/mykolastepanenko/stepanenko-portfolio-react"
                   target="_blank"
-                  rel="noreferrer">
+                  rel="noreferrer"
+                >
                   https://github.com/mykolastepanenko/stepanenko-portfolio-react
                 </a>,
               ]}

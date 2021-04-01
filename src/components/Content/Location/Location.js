@@ -29,9 +29,10 @@ export default function Location() {
       <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "file"]} />
         <a
-          href="https://drive.google.com/file/d/1VGebFtt-u62EkE8b-grXKZ9xF3kBwzd5/view?usp=sharing"
+          href="https://drive.google.com/file/d/1PgRS12CjeC3zEgDz8s_NNUHQ3IF68zPB/view?usp=sharing"
           target="_blank"
-          rel="noreferrer">
+          rel="noreferrer"
+        >
           Скачать резюме
         </a>
       </p>
