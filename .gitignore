@@ -23,3 +23,8 @@ psd_materials/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+psd_materials/
+.vscode/
+Main-File-1.zip
+debug.log

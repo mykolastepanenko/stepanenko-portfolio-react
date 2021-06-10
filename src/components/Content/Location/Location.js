@@ -17,19 +17,37 @@ export default function Location() {
           Nikolaua36@gmail.com
         </a>
       </p>
-      {/* <p>
+      <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
         <a
-          href="https://stepanenko-portfolio.herokuapp.com/"
+          href="https://codesandbox.io/s/epic-napier-nbjch"
           target="_blank"
           rel="noreferrer">
-          Портфолио
+          Портфолио 1
         </a>
-      </p> */}
+      </p>
+      <p>
+        <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
+        <a
+          href="https://vswjk.csb.app/"
+          target="_blank"
+          rel="noreferrer">
+          Портфолио 2
+        </a>
+      </p>
+      <p>
+        <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
+        <a
+          href="https://test-logic-llc.herokuapp.com/"
+          target="_blank"
+          rel="noreferrer">
+          Портфолио 3
+        </a>
+      </p>
       <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "file"]} />
         <a
-          href="https://drive.google.com/file/d/1PgRS12CjeC3zEgDz8s_NNUHQ3IF68zPB/view?usp=sharing"
+          href="https://drive.google.com/file/d/1HfcWuffGGs1vx1AI5MwzweCs1PNCX8-N/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
