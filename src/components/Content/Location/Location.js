@@ -38,7 +38,7 @@ export default function Location() {
       <p>
         <FontAwesomeIcon className="section__icon" icon={["fas", "globe"]} />
         <a
-          href="https://test-logic-llc.herokuapp.com/"
+          href="https://mykola-portfolio-3.herokuapp.com/"
           target="_blank"
           rel="noreferrer">
           Портфолио 3
