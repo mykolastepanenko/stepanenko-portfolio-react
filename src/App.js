@@ -5,7 +5,7 @@ import { far } from "@fortawesome/free-regular-svg-icons";
 import { fas } from "@fortawesome/free-solid-svg-icons";
 import Header from "./components/Header/Header";
 import Content from "./components/Content/Content";
-
+// commit
 library.add(fab, far, fas);
 
 function App() {
